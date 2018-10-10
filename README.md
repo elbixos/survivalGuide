@@ -52,7 +52,7 @@ installe l'application dans un répertoire de votre **clef usb**.
 
 La stratégie précédente est à ce point efficace que certains se sont dit qu'ils pouvaient même éviter de chercher les versions portables de leurs applications.
 
-Vous installez sur votre clef usb la **plateforme portableApps**. (*framakey* est une alternative)
+Par exemple, vous installez sur votre clef usb la **plateforme portableApps**. Vous la trouverez à cette adresse : [https://portableapps.com](https://portableapps.com).
 
 C'est la solution que j'ai retenue et qui me permet de promener avec moi :
 - atom
@@ -61,3 +61,5 @@ C'est la solution que j'ai retenue et qui me permet de promener avec moi :
 - ...
 
 Vous trouverez un jour ici un tutoriel sur comment j'ai fait. Sinon, cherchez.
+
+*Remarque :* **framakey** est une alternative francaise à portableApps.
