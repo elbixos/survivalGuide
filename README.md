@@ -27,16 +27,13 @@ Il vous faudra pour chaque solution une **clef usb**.
 Vous êtes donc étudiant, voulez utiliser un logiciel sur l'une des multiples machines d'une des salles de TP, bootée sous windows.
 Vous n'avez pas les droits **admin** sur les **hôtes**.
 
-### une solution non optimale
+### la solution moisie
 Certaines applis peuvent être installées par l'utilisateur. C'est le cas de python par exemple.
 
-Une première solution consiste donc à transporter sur votre **clef usb** tous les installateurs des applis dont vous avez besoin.
+Une première solution consiste donc à transporter sur votre **clef usb** tous les installateurs des applis dont vous avez besoin. Cela fonctionne. Prenez des installateurs pour 32bits, ils tourneront à peu près partout. MAIS :
 
-#### Avantages
-Cela fonctionne. Prenez des installateurs pour 32bits, ils tourneront à peu près partout.
-
-#### Inconvénients :
 - Installer prend du temps.
+
 - vous changez de machine ou de salle => il faut recommencer.
 
 ### Les applications portables.
@@ -55,7 +52,7 @@ installe l'application dans un répertoire de votre **clef usb**.
 
 La stratégie précédente est à ce point efficace que certains se sont dit qu'ils pouvaient même éviter de chercher les versions portables de leurs applications.
 
-Vous installez sur votre clef usb la **plateforme portableApps**.
+Vous installez sur votre clef usb la **plateforme portableApps**. (*framakey* est une alternative)
 
 C'est la solution que j'ai retenue et qui me permet de promener avec moi :
 - atom
