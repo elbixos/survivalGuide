@@ -77,7 +77,7 @@ A priori, les **appImages** peuvent être une solution multi distribution. Le si
 
 Vous pouvez mettre vos appImages sur la même clef que vos applications portables windows.
 
-### D'autres systèmes.
+### D'autres types d'applis portables
 
 Atom, par exemple, donne dans son readme la procédure pour obtenir un logiciel portable sous linux.
 Suivez la et copiez les répertoires utiles sur votre clef usb.
