@@ -112,6 +112,15 @@ Vous pouvez installer Linux sur un disque externe, sur lequel vous bootez depuis
 Pour installer linux, vous pouvez utiliser la clef live dont nous avons parlé
 à la section précédente.
 
+Attention : évitez d'installer des drivers spécifiques à votre machine sur ce disque, cela le rendrait... moins portable...
+
+
+## 5. Conclusion
+
+Avec tout ceci, vous devriez être en mesure de travailler a peu près n'importe
+où avec un environnement aussi proche que possible de votre environnement
+favori. 
+
 ## TODO
 
 - Ajouter un lien vers des tutos sur les clefs lives
