@@ -99,4 +99,21 @@ C'est sans doute l'outil le plus utile à trimbaler sur soi. *Il ne vous sera d'
 
 ## 4. Un linux portable
 
-La solution précédente est
+La solution précédente est pratique, mais il faudra faire avec les applications et les réglages installés sur la clef live. Celle ci ne met pas en place de **persistance des données**
+
+Vous pouvez donc vouloir votre distribution avec vous, incluant :
+
+- vos applis favorites
+
+- votre bureau et vos documents.
+
+Vous pouvez installer Linux sur un disque externe, sur lequel vous bootez depuis n'importe quelle machine.
+
+Pour installer linux, vous pouvez utiliser la clef live dont nous avons parlé
+à la section précédente.
+
+## TODO
+
+- Ajouter un lien vers des tutos sur les clefs lives
+
+- Ajouter un lien vers des tutos sur l'installation sur un disque externe.
