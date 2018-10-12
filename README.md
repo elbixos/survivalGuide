@@ -119,10 +119,14 @@ Attention : évitez d'installer des drivers spécifiques à votre machine sur ce
 
 Avec tout ceci, vous devriez être en mesure de travailler a peu près n'importe
 où avec un environnement aussi proche que possible de votre environnement
-favori. 
+favori.
 
 ## TODO
 
 - Ajouter un lien vers des tutos sur les clefs lives
+
+  - depuis windows
+
+  - depuis linux
 
 - Ajouter un lien vers des tutos sur l'installation sur un disque externe.
