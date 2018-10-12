@@ -22,7 +22,7 @@ Le guide est construit par souci d’efficacité comme une liste de cas d'applic
 
 Il vous faudra pour chaque solution une **clef usb**.
 
-## Etudiant / hôte Windows : Portables Apps
+## 1. Etudiant / hôte Windows : Portables Apps
 
 Vous êtes donc étudiant, voulez utiliser un logiciel sur l'une des multiples machines d'une des salles de TP, bootée sous windows.
 Vous n'avez pas les droits **admin** sur les **hôtes**.
@@ -63,3 +63,35 @@ C'est la solution que j'ai retenue et qui me permet de promener avec moi :
 Vous trouverez un jour ici un tutoriel sur comment j'ai fait. Sinon, cherchez.
 
 *Remarque :* **framakey** est une alternative francaise à portableApps.
+
+## 2. Etudiant / hôte Linux : AppImages
+
+Vous êtes donc étudiant, voulez utiliser un logiciel sur l'une des multiples machines d'une des salles de TP, bootée sous linux.
+Vous n'avez pas les droits **admin** sur les **hôtes**.
+
+Même raisonnement que précédemment : il nous faut des applis portables, sous **linux**
+
+### Les appImages
+
+A priori, les **appImages** peuvent être une solution multi distribution. Le site du créateur de ces appimages est içi. [https://appimage.org/](https://appimage.org/)
+
+Vous pouvez mettre vos appImages sur la même clef que vos applications portables windows.
+
+## 3. Machine à réparer / installer => clef bootable.
+
+Votre machine ne boote plus, ou vous voulez installer linux quelque part ?
+
+Il est plus ou moins impératif d'avoir toujours une clef bootable sur soi de sa distribution préférée.
+
+Par exemple : la **live-usb** vous permettra :
+
+- d'essayer Ubuntu un peu partout (donc potentiellement réparer ce qui ne va pas sur un pc)
+
+- d'installer Ubuntu sur une machine.
+
+C'est sans doute l'outil le plus utile à trimbaler sur soi. *Il ne vous sera d'aucune utilité dans les salles infos, car vous ne pouvez pas booter sur une clef*.
+
+
+## 4. Un linux portable
+
+La solution précédente est 
