@@ -77,6 +77,11 @@ A priori, les **appImages** peuvent être une solution multi distribution. Le si
 
 Vous pouvez mettre vos appImages sur la même clef que vos applications portables windows.
 
+### D'autres systèmes.
+
+Atom, par exemple, donne dans son readme la procédure pour obtenir un logiciel portable sous linux.
+Suivez la et copiez les répertoires utiles sur votre clef usb.
+
 ## 3. Machine à réparer / installer => clef bootable.
 
 Votre machine ne boote plus, ou vous voulez installer linux quelque part ?
@@ -94,4 +99,4 @@ C'est sans doute l'outil le plus utile à trimbaler sur soi. *Il ne vous sera d'
 
 ## 4. Un linux portable
 
-La solution précédente est 
+La solution précédente est
