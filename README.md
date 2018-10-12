@@ -97,7 +97,7 @@ Par exemple : la **live-usb** vous permettra :
 C'est sans doute l'outil le plus utile à trimbaler sur soi. *Il ne vous sera d'aucune utilité dans les salles infos, car vous ne pouvez pas booter sur une clef*.
 
 
-## 4. Un linux portable
+## 4. Linux sur un disque externe.
 
 La solution précédente est pratique, mais il faudra faire avec les applications et les réglages installés sur la clef live. Celle ci ne met pas en place de **persistance des données**
 
@@ -109,11 +109,12 @@ Vous pouvez donc vouloir votre distribution avec vous, incluant :
 
 Vous pouvez installer Linux sur un disque externe, sur lequel vous bootez depuis n'importe quelle machine.
 
-Pour installer linux, vous pouvez utiliser la clef live dont nous avons parlé
-à la section précédente.
-
 Attention : évitez d'installer des drivers spécifiques à votre machine sur ce disque, cela le rendrait... moins portable...
 
+Appliquez aussi cette solution si vous voulez utiliser linux sur votre machine perso, mais voulez conserver votre OS actuel (mais pourquoi donc ?) et ne vous sentez pas de mettre en place un **multi boot**.
+
+*Pour installer linux, vous pouvez utiliser la clef live dont nous avons parlé
+à la section précédente.*
 
 ## 5. Conclusion
 
