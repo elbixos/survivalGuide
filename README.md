@@ -79,7 +79,7 @@ Vous pouvez mettre vos appImages sur la même clef que vos applications portable
 
 ### D'autres types d'applis portables
 
-Atom, par exemple, donne dans son readme la procédure pour obtenir un logiciel portable sous linux.
+**Atom**, par exemple, donne dans son readme ( [ici](https://flight-manual.atom.io/getting-started/sections/installing-atom/) ) la procédure pour obtenir un logiciel portable sous linux.
 Suivez la et copiez les répertoires utiles sur votre clef usb.
 
 ## 3. Machine à réparer / installer => clef bootable.
